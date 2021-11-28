@@ -1,9 +1,71 @@
 body {
     text-align: center;
+    
+}
+.principal{
     background: #9de059; 
+}
+
+#cacto {
+    width: 100%;
 }
 
 h1 {
     background: rgb(43, 78, 8);
     color: azure;
+    font-size: 60px;
+}
+
+p {
+    text-align: center; 
+    font-size: 30px;
+
+}
+
+strong {
+    font-size: 40px;
+    color: #FFFFFF;
+    font-size: 50px; 
+    text-align: center;
+}
+
+h2{
+    background: rgb(43, 78, 8);
+    color: azure;
+    font-size: 60px;
+    
+}
+
+#cacto1 {
+    width: 100%;
+    height: 600px;
+
+}
+#cacto2 {
+    
+  height: 290px;
+  width: 500px;
+  margin-left: 100px;
+  margin-top: -50px;
+    }
+    
+    
+li {
+    text-align: center; 
+    font-size: 30px;
+
+}
+
+.itens {
+    font-style: italic;
+    text-align: justify;
+}
+
+.curiosidades{
+    background: #c1f78c;
+    background: size 300px;
+    
+}
+.lista-curiosidade{
+    display: flex;
 }
