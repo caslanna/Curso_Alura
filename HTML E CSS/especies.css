@@ -1,8 +1,19 @@
 header {
     background: #aaddbb;
-    
+    padding: 20px 0;
+ 
 }
 
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+nav {
+    position: absolute;
+    top: 40px;
+    right: 0;
+}
 header img {
     width: 90px;
     border-radius: 50%;
@@ -19,4 +30,36 @@ nav a {
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;
+}
+
+.especies{
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+
+}
+
+.especies li {
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+
+}
+
+.popular{
+    font-size: 20px;
+    font-weight: bold;
+}
+.descricao{
+    font-size: 17px;
+
+}
+
+.especies h2{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+img{
+    width: 250px;
 }
